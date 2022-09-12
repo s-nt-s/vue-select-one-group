@@ -1,7 +1,8 @@
 {
   "name": "vue-select-one-group",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "files": ["dist"],
+  "licence": "GPL-3.0",
   "main": "./dist/vue-select-one-group.umd.js",
   "module": "./dist/vue-select-one-group.es.js",
   "exports": {
