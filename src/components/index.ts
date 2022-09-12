@@ -1,0 +1,1 @@
+export { default as SelectOneGroup } from './SelectOneGroup.vue';

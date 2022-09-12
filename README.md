@@ -1,0 +1,1 @@
+SelectOneGroup is a Vue3 component that render a multigroup combo where only one group can be selected at once.
