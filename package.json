@@ -16,7 +16,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build && vue-tsc --emitDeclarationOnly && mv dist/components dist/types && rm dist/*.d.ts",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "build-only": "vite build"
   },
   "dependencies": {
     "vue": "^3.2.37"
